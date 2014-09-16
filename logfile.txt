@@ -1,0 +1,40 @@
+MSID:9 Frequency handed over!
+MSID:9 Frequency handed over!
+MSID:9 undefined
+MSID:57 Frequency handed over!
+MSID:57 Frequency handed over!
+MSID:57 No frequency zone! Calls will be dropped.
+MSID:11 Frequency handed over!
+MSID:11 Frequency handed over!
+MSID:89 Frequency handed over!
+MSID:98 Frequency handed over!
+MSID:55 Frequency handed over!
+MSID:3 Frequency handed over!
+MSID:10 Frequency handed over!
+MSID:87 Frequency handed over!
+MSID:87 Frequency handed over!
+MSID:8 Frequency handed over!
+MSID:8 Frequency handed over!
+MSID:8 Frequency handed over!
+MSID:8 Frequency handed over!
+MSID:8 No frequency zone! Calls will be dropped.
+MSID:8 Frequency handed over!
+MSID:8 Frequency handed over!
+MSID:86 Frequency handed over!
+MSID:86 Frequency handed over!
+MSID:8 Frequency handed over!
+MSID:8 Frequency handed over!
+MSID:8 No frequency zone! Calls will be dropped.
+MSID:8 Frequency handed over!
+MSID:8 No frequency zone! Calls will be dropped.
+MSID:8 Frequency handed over!
+MSID:8 No frequency zone! Calls will be dropped.
+MSID:8 Frequency handed over!
+MSID:8 No frequency zone! Calls will be dropped.
+MSID:8 Frequency handed over!
+MSID:8 Frequency handed over!
+MSID:8 Frequency handed over!
+MSID:8 Frequency handed over!
+MSID:83 Frequency handed over!
+MSID:83 Frequency handed over!
+MSID:83 Frequency handed over!
